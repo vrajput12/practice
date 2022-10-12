@@ -1,0 +1,16 @@
+Recent advances in computational linguistics and the social sciences have created new opportunities for the education research community to analyze relevant large-scale text data. However, the take-up of these advances in education research is still nascent. In this paper, we review the recent automated text methods relevant to educational processes and determinants. We discuss both lexical-based and supervised methods, which expand the scale of text that researchers can analyze, as well as unsupervised methods, which allow researchers to discover new themes in their data. To illustrate these methods, we analyze the text interactions from a field experiment in the discussion forums of online classes. Our application shows that respondents provide less assistance and discuss slightly different topics with the randomized female posters, but respond with similar levels of positive and negative sentiment. These results demonstrate that combining qualitative coding with machine learning techniques can provide for a rich understanding of text-based interactions.
+
+Applications now open! More info and enrollment here
+
+Overview
+In this course students will learn how to use large corpuses of text to support better decision making. Students will learn how to: 
+
+Treat text as data. At the end of the course students will be able to convert vast archives of text into a format that can be used for data analysis.
+Use the data generated from text to tackle policy problems in the specific environment of their respective organization
+To achieve both of these goals the course will work with a combination of hands-on case studies and examples from economics. The case studies which will serve as a way to motivate and explain the toolkit. Students will, for example:
+
+Use Twitter data to analyze (political) trends like polarization in social networks and predict the stock market. 
+Use newspaper text to understand how news stories emerge, track uncertainty, forecast economic activity and spot and predict instability around the world.
+Use UN security council resolutions to keep track of global risks and track demands made towards countries by the security council.
+Use text from patents to construct a measure of the novelty and long-term impact of inventions. 
+These case studies will be complemented by examples from established research projects in economics to illustrate how data can be used to answer policy challenges and move from data analysis to hypothesis testing and causal inference.
